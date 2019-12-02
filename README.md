@@ -17,6 +17,7 @@ I did not realize I had to manually enable billing in the GUI so i had some issu
 
 ### A summary of the data collected: number of attacks, number of malware samples, etc.:
 10771 number of attacks collected in json file
+0 number of malware samples that i was able to detect
 
 ### Any unresolved questions raised by the data collected:
 N/A
